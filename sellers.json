@@ -5,12 +5,6 @@
     "version": 1,
     "sellers": [
         {
-            "seller_id": 1001,
-            "seller_type": "PUBLISHER",
-            "domain": "indiatimes.com",
-            "name": "Times of India"
-        },
-        {
             "seller_id": 1002,
             "seller_type": "PUBLISHER",
             "domain": "hindustantimes.com",
@@ -29,22 +23,28 @@
             "name": "Tiny Tactics"
         },
         {
-            "seller_id": 1005,
-            "seller_type": "PUBLISHER",
-            "domain": "pocketfm.com",
-            "name": "Pocket FM"
-        },
-        {
             "seller_id": 1006,
             "seller_type": "PUBLISHER",
             "domain": "felicitygames.com",
             "name": "Felicitygames"
         },
         {
-            "seller_id": 1007,
+            "seller_id": 1008,
             "seller_type": "PUBLISHER",
-            "domain": "funstop.io",
-            "name": "Funstop"
+            "domain": "tripletapgames.com",
+            "name": "Triple Tap Games"
+        },
+        {
+            "seller_id": 1018,
+            "seller_type": "PUBLISHER",
+            "domain": "reliancegames.com",
+            "name": "Reliance Games"
+        },
+         {
+            "seller_id": 1018,
+            "seller_type": "PUBLISHER",
+            "domain": "greedygame.com",
+            "name": "Greedy Game"
         }
     ]
 }
