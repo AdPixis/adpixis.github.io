@@ -45,6 +45,12 @@
             "seller_type": "INTERMEDIARY",
             "domain": "greedygame.com",
             "name": "Greedy Game"
+        },
+         {
+            "seller_id": 1035,
+            "seller_type": "INTERMEDIARY",
+            "domain": "verve.com",
+            "name": "Verve Group"
         }
     ]
 }
