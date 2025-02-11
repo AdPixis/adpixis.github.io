@@ -23,6 +23,12 @@
             "name": "Tiny Tactics"
         },
         {
+            "seller_id": 1005,
+            "seller_type": "PUBLISHER",
+            "domain": "pocketfm.com",
+            "name": "Pocket FM"
+        },
+        {
             "seller_id": 1006,
             "seller_type": "PUBLISHER",
             "domain": "felicitygames.com",
