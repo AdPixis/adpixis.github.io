@@ -64,5 +64,17 @@
             "domain": "infinitygames.io",
             "name": "Infinity Games"
         },
+        {
+            "seller_id": 1037,
+            "seller_type": "INTERMEDIARY",
+            "domain": "smaato.com",
+            "name": "Smaato"
+        }, 
+        {
+            "seller_id": 1038,
+            "seller_type": "INTERMEDIARY",
+            "domain": "inmobi.com",
+            "name": "Inmobi"
+        }
     ]
 }
