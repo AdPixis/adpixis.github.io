@@ -41,6 +41,12 @@
             "name": "Triple Tap Games"
         },
         {
+            "seller_id": 1012,
+            "seller_type": "PUBLISHER",
+            "domain": "hopeitz.com",
+            "name": "Hopeitz"
+        },
+        {
             "seller_id": 1018,
             "seller_type": "PUBLISHER",
             "domain": "reliancegames.com",
